@@ -1,6 +1,8 @@
 # base front end template project
 
-> a base front end template project
+> 基于vue 2.5 前端工程初始化项目
+
+> 避免官方脚手架更新导致一系列的剧烈变动
 
 ## Build Setup
 
